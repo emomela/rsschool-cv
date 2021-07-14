@@ -14,3 +14,13 @@ _I am at the beginning of a huge and interesting journey._
 * Figma, Adobe Photoshop, Adobe Illustrator
 * Git, GitHub
 * Visual Studio Code
+
+### Courses
+* HTML Academy
+* RS School
+
+### Languages
+* Russian native speaker
+* English B1
+* Polish A2
+* Belarusian C2
